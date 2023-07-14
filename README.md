@@ -115,7 +115,10 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
   ### 3.4 Daily/Weekly/Bi-weekly test summary report
 
-- link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc): 
+- link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc)
+
+![Daily report ](https://github.com/ioanagornateanu/Proiect-practic-testare-manuala/blob/main/WhatsApp%20Image%202023-07-02%20at%2020.52.05.jpeg)
+
   
   
 
