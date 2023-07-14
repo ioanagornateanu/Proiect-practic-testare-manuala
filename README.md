@@ -111,7 +111,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 - testing using new accounts and older account is necessary
 -	The following test conditions could be found here:  
 
- ### 3.3 Test cases
+  ### 3.3 Test cases
 
   ### 3.4 Daily/Weekly/Bi-weekly test summary report
 
