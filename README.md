@@ -91,7 +91,19 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 -	versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
 -	the web page pagination could be impacted when opened on mobile devices
 -	stress conditions might impact the web application
--	new browser might not be supported 
+-	new browser might not be supported
+
+  ### 2.2 Test analysis
+  
+-	The testing process will be done based on the requirements for features: Add funds, Withdraw funds, Send money
+-	we plan on running a full regression test on the current version
+
+     # 3. Test deliverables
+
+  ### 3.1 Test plan - link to test plan
+
+  
+
 
 
   
