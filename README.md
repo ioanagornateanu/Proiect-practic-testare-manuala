@@ -64,7 +64,34 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 #### Roles and responsibilities
 
 | Role | Name | Tasks/Work |
-|---|---|
+|---|---|---|
 | Senior Tester | Matei Oltean | will test: Add funds, Withdraw funds |
 | Tester | Adelina Pop | will test: Sends money |
+
+#### Entry criteria:
+
+-	functional business specifications are defined
+-	roles needed for the project are allocated
+-	testing environment is up and running
+-	smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+  
+#### Exit criteria:
+
+-	all test cases have been executed 
+-	90% of tests are passed
+-	no Critical issues/bugs have Open status (All unresolved bugs have low priority and low severity)
+-	exploratory testing performed on the features: Add funds, Withdraw funds, Send money
+-	update tests are 100% passed (update tests will not generate other new issues that impact the application)
+  
+#### Risks:
+
+-	user data (banking related data, funds, transactions, etc) might be impacted with update tests
+-	stability risks (crashes, disconnects, etc)
+-	IE browser might have performance issues
+-	versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
+-	the web page pagination could be impacted when opened on mobile devices
+-	stress conditions might impact the web application
+-	new browser might not be supported 
+
+
   
