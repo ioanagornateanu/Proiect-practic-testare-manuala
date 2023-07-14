@@ -109,13 +109,13 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 -  we will use test environment
 - testing using new accounts and older account is necessary
--	The following test conditions could be found here:  
+-	The following [test conditions] (https://github.com/ioanagornateanu/Proiect-practic-testare-manuala/blob/main/Tema%20de%20grup%20-%20saptamana%202%20-%20Copy.pdf) 
 
   ### 3.3 Test cases
 
   ### 3.4 Daily/Weekly/Bi-weekly test summary report
 
-- link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc)
+- link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc): 
   
   
 
